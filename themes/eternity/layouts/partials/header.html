@@ -23,6 +23,7 @@
 </head>
 
 <body>
+	{{ with .ctx.Params }}
 	{{ $tags := .ctx.Params.tags }}
 	{{ if $tags }}
 		<div class="center column slide-meta-el">
