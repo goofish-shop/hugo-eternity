@@ -1,12 +1,15 @@
 ---
-weight: 1
+weight: 4
 images:
-- https://source.unsplash.com/random?galaxy&5568
-title: galaxy 1
+- https://source.unsplash.com/random?nature&1
+- https://source.unsplash.com/random?nature&32532
+multipleColumn: true
+title: nature 4
 date: 2022-07-23
 tags:
+- work # homepage
 - archive # all posts
-- space
+- nature
 ---
 
 ## Markdown
@@ -25,4 +28,4 @@ Some list
 
 1. A b c
 2. A b c
-3. A b c 
+3. A b c

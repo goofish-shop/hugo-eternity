@@ -1,12 +1,14 @@
 ---
-weight: 1
+weight: 3
 images:
-- https://source.unsplash.com/random?galaxy&5568
-title: galaxy 1
+- https://source.unsplash.com/random?bunny&7662
+title: bunny 3
 date: 2022-07-23
 tags:
+- work # homepage
 - archive # all posts
-- space
+- bunny
+- nature
 ---
 
 ## Markdown

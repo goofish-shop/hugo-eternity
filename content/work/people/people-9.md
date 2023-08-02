@@ -1,12 +1,14 @@
 ---
-weight: 1
+weight: 9
 images:
-- https://source.unsplash.com/random?galaxy&5568
-title: galaxy 1
+- https://source.unsplash.com/random?people&31197
+- https://source.unsplash.com/random?people&223197
+title: people 9
+multipleColumn: true
 date: 2022-07-23
 tags:
 - archive # all posts
-- space
+- people
 ---
 
 ## Markdown
