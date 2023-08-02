@@ -1,5 +1,5 @@
 baseURL: https://goofish-shop.github.io/hugo-eternity/ # todo: change site url.
-title: goofish-sho # todo: change site name.
+title: goofish-shop # todo: change site name.
 
 theme: eternity
 googleAnalytics: '' # todo: set your analytics id.
@@ -21,7 +21,7 @@ params:
   socials:
     # todo: add your social accounts.
     - icon: 'far fa-envelope fa-lg'
-      url: 'mailto:eternity@bora.sh'
+      url: 'mailto:ahkevinxy@gmail.com'
       landing: true
   # homepage: "/work" # todo: uncomment homepage, homepage link is mostly same with menu.main[0]
   specialPages:
